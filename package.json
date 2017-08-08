@@ -1,6 +1,6 @@
 {
-  "name": "node-flywaydb",
-  "version": "0.1.4",
+  "name": "node-flywaydb-nextgen",
+  "version": "0.1.5",
   "description": "NodeJs wrapper for flywaydb cli",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markgardner/node-flywaydb.git"
+    "url": "git+https://github.com/MedFlyt/node-flywaydb.git"
   },
   "keywords": [
     "flyway",
@@ -20,9 +20,9 @@
   "author": "Mark Gardner",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/markgardner/node-flywaydb/issues"
+    "url": "https://github.com/MedFlyt/node-flywaydb/issues"
   },
-  "homepage": "https://github.com/markgardner/node-flywaydb#readme",
+  "homepage": "https://github.com/MedFlyt/node-flywaydb#readme",
   "dependencies": {
     "commander": "^2.9.0",
     "extract-zip": "^1.5.0",
